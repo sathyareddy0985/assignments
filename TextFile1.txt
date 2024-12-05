@@ -1,2 +1,11 @@
 My name is Sathya thouti Reddy
 I graduated from UMBC
+
+git hub and git bash
+git bash is a terminal-- where we use it to run all the commands related to git-- git clone
+first clone the repositorty to local--
+add files-- git add . 
+then we commit changes--- git commit -m "comment line"
+then we push the files to the git-- git push origin main
+if its a master branch name-- git push origin branch name
+
